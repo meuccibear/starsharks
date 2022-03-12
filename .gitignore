@@ -1,0 +1,64 @@
+### Example user template template
+### Example user template
+
+# Editor directories and files
+    # IntelliJ project files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.iml
+out
+gen
+
+api/.idea
+# Compiled class file
+*.class
+api/target
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.iml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+generator/.idea
+
+vue/.idea
+vue/node_modules
+#vue/package-lock.json
+
+vue/.DS_Store
+vue/node_modules/
+vue/dist/
+vue/npm-debug.log*
+vue/yarn-debug.log*
+vue/yarn-error.log*
+vue/test/unit/coverage/
+vue/test/e2e/reports/
+vue/selenium-debug.log
+
+
+
+
+
+
+

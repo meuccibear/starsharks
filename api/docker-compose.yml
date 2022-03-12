@@ -1,0 +1,8 @@
+version: '2'
+services:
+  helium-fast:
+    image: renren/fast
+    ports:
+      - "8081:8081"
+    environment:
+      - spring.profiles.active=prod
